@@ -74,7 +74,7 @@ final class Hotelgalaxy_Customize {
 				'hotel-galaxy',
 				array(
                     'pro_text' => esc_html__( 'Get More Features in Hotel Galaxy Pro','hotel-galaxy' ),
-                    'pro_url'  => 'https://webdzier.com/downloads/hotel-galaxy-pro/',
+                    'pro_url'  => 'https://burgerthemes.com/hotel-galaxy-pro/',
                     'priority' => 0
                 )
 			)

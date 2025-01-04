@@ -94,7 +94,6 @@ function hotelgalaxy_content_width() {
 add_action( 'after_setup_theme', 'hotelgalaxy_content_width', 0 );
 
 
-
 // sidebar
 add_action( 'widgets_init', 'hotelgalaxy_widgets_init' );
 function hotelgalaxy_widgets_init() {       

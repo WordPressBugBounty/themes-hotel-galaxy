@@ -1,7 +1,7 @@
 </div>
 <?php
 $s_h_copyright          = get_theme_mod( 's_h_copyright', true );
-$s_h_footer_bottom          = get_theme_mod( 's_h_footer_bottom', true );
+$s_h_footer_bottom      = get_theme_mod( 's_h_footer_bottom', true );
 ?>
 <footer class="site-footer-area">
     <div class="footer-info">
@@ -26,9 +26,9 @@ $s_h_footer_bottom          = get_theme_mod( 's_h_footer_bottom', true );
                             '<div class="copyright-text">&copy; %1$s %2$s &bull; %4$s <a href="%3$s"> %5$s</a></div>',
                             date('Y'),
                             get_bloginfo('name'),
-                            esc_url('https://webdzier.com'),
-                            _x('Powered by', 'Webdzier', 'hotel-galaxy'),
-                            __('Webdzier', 'hotel-galaxy')
+                            esc_url('https://burgerthemes.com'),
+                            _x('Powered by', 'burgersoftware', 'hotel-galaxy'),
+                            __('burgersoftware', 'hotel-galaxy')
                         );                       
 
                         ?> 

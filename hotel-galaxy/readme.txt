@@ -1,16 +1,16 @@
 === Hotel Galaxy ===
-Contributors: Webdzier
+Contributors: burgersoftware
 Requires at least: 5.0
 Tested up to: 6.7
 Requires PHP: 7.2
-Stable tag: 4.4.25
+Stable tag: 4.4.26
 Tags: blog, entertainment, one-column, two-columns, right-sidebar, custom-colors, custom-menu, threaded-comments, custom-header, custom-background, custom-logo, featured-images, featured-image-header
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Hotel Galaxy is a Modern Hotel & Room Booking WordPress theme that is perfectly suitable for the hotel, resort, villas, and all kinds of hotel industry websites. This eye-catching theme is looking gorgeous for its clean and smooth design. It is compatible with the Advanced Booking Calendar plugin. The built-in booking system comes with some extended options. For example, if someone wants to book a room, they can do it either by searching a particular room from the search bar. Hotel Galaxy comes with the necessary features for your online presence. Checkout Pro Version https://webdzier.com/demo/theme/pro/hotelgalaxy/
+Hotel Galaxy is a Modern Hotel & Room Booking WordPress theme that is perfectly suitable for the hotel, resort, villas, and all kinds of hotel industry websites. This eye-catching theme is looking gorgeous for its clean and smooth design. It is compatible with the Advanced Booking Calendar plugin. The built-in booking system comes with some extended options. For example, if someone wants to book a room, they can do it either by searching a particular room from the search bar. Hotel Galaxy comes with the necessary features for your online presence. Checkout Pro Version https://burgerthemes.com/demo/pro/hotelgalaxy
 
 == Installation ==
 
@@ -20,7 +20,7 @@ Hotel Galaxy is a Modern Hotel & Room Booking WordPress theme that is perfectly 
 
 == Frequently Asked Questions ==
 
-For any help you can mail us at webdzier@gmail.com
+For any help you can mail us at burgersoftwares@gmail.com
 
 -------------------------------------------------------------------------------------------------
 License and Copyrights for Resources used in hotel galaxy WordPress Theme
@@ -87,6 +87,9 @@ License: CC0 Public Domain
 
 
 == Changelog ==
+
+= Version 4.4.26 =
+* Theme URI, Author & Author URI Updated
 
 = Version 4.4.25 =
 * Wp tested up to 6.7.1
